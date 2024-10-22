@@ -1,0 +1,19 @@
+# read all csv file from the data csv file by pandas
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+#
+
+
+# Read data and check data
+customers_dataset = pd.read_csv("olist_customers_dataset.csv")
+geolocation_dataset = pd.read_csv('olist_geolocation_dataset.csv')
+order_items_dataset = pd.read_csv('olist_order_items_dataset.csv')
+order_reviews_dataset = pd.read_csv('olist_order_reviews_dataset.csv')
+order_dateset = pd.read_csv('olist_orders_dataset.csv')
+products_dataset = pd.read_csv('olist_products_dataset.csv')
+sellers_dataset = pd.read_csv('olist_sellers_dataset.csv')
+product_category_name_translation = pd.read_csv('product_category_name_translation.csv')
+order_payments_dataset = pd.read_csv('olist_order_payments_dataset.csv')
