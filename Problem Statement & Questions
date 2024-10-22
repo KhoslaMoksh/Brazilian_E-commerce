@@ -1,0 +1,53 @@
+Problem Statement:
+Olist is a Brazilian e-commerce platform that connects small and medium-sized businesses to customers across Brazil. The platform operates as a marketplace, where merchants can list their products and services and customers can browse and purchase them online.
+The Olist sales dataset is a collection of anonymized data about orders placed on the Olist from September 2016 to September 2018. It contains a wide range of information about each order, including the order date, product details, payment and shipping information, customer and seller IDs, and customer reviews. The dataset also includes information about the sellers who list their products on Olist, as well as data on customer behavior and demographics. The dataset is designed to help analysts and researchers better understand Brazil's e-commerce landscape and identify growth and optimization opportunities.
+
+some questions for the project to be answered.
+
+1. Revenue and Profit Analysis:
+
+  What are the monthly and yearly revenue and profit trends?
+
+  Which product categories contribute the most to overall profit?
+
+  What are the profit margins for different product categories and sub-categories?
+  
+  How do seasonal sales patterns affect revenue and profit?
+
+  What are the top-performing products in terms of revenue and profit?
+
+2. Customer Analysis:
+
+  Who are the top customers by revenue and profit?
+
+  What is the average order value and frequency for different customer segments?
+
+  How does customer lifetime value vary across different segments?
+
+  What factors drive higher customer lifetime value?
+
+  How do discounts and promotions impact customer purchasing behaviour?
+
+3. Inventory Management:
+
+  What are the inventory turnover rates for different product categories?
+
+  How does inventory level correlate with sales performance?
+
+  Identify slow-moving and fast-moving products.
+
+  How effective are current inventory management practices?
+
+  What recommendations can be made to optimize inventory levels?
+
+4. Sales Channel Performance:
+
+  How do different sales channels (e.g., online, and in-store) compare regarding revenue and profit?
+
+  Which channels have the highest customer acquisition and retention rates?
+
+  How does marketing spend impact sales across different channels?
+
+  What is the ROI of marketing campaigns for each channel?
+
+  How do customer preferences differ across sales channels?
