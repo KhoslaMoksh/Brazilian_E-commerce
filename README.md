@@ -5,7 +5,7 @@ The Olist sales dataset is a collection of anonymized data about orders placed o
 
 The document CompleteAnalysis gives the whole Python project in Jupyter Notebook format. Certain other files, like DataDictionary, ProblemStatements, ReadingCSVfiles, and ProposedSolutions are also included.
 
-For the four main questions/Problem Statements, I created four different PDF files for easy viewing. All of them are stored under the Python project folder.
+For the four main questions/Problem Statements, I created four different PDF files for easy viewing. All of them are stored under the AnalysisDocuments folder.
 
 Here's the link to the Dataset used for the Python project.
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
